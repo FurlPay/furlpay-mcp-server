@@ -1,0 +1,43 @@
+{
+  "name": "@furlpay/mcp-server",
+  "version": "0.1.0",
+  "description": "Model Context Protocol server exposing Furlpay tools to AI coding assistants",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "furlpay-mcp": "./server.js"
+  },
+  "files": [
+    "server.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/FurlPay/furlpay-mcp-server#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurlPay/furlpay-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FurlPay/furlpay-mcp-server/issues"
+  },
+  "author": "Furlpay <hello@furlpay.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "agents",
+    "furlpay",
+    "payments",
+    "stablecoin"
+  ],
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  }
+}
