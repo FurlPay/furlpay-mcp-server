@@ -6,7 +6,6 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 [![npm](https://img.shields.io/npm/v/%40furlpay%2Fmcp-server)](https://www.npmjs.com/package/@furlpay/mcp-server)
-[![CI](https://github.com/FurlPay/furlpay-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/FurlPay/furlpay-mcp-server/actions)
 [![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 A [Model Context Protocol](https://modelcontextprotocol.io) server that exposes the [Furlpay](https://furlpay.com) API as tools for AI assistants — drive wallets, swaps, investing, and compliance checks from Claude, Cursor, or any MCP-capable agent.
