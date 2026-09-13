@@ -1,5 +1,10 @@
 # @furlpay/mcp-server
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+
 [![npm](https://img.shields.io/npm/v/%40furlpay%2Fmcp-server)](https://www.npmjs.com/package/@furlpay/mcp-server)
 [![CI](https://github.com/FurlPay/furlpay-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/FurlPay/furlpay-mcp-server/actions)
 [![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
